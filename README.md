@@ -1,7 +1,3 @@
-好的，我参考了 Electron 官方构建产物命名规范和一些行业实践，重新整理了一份更专业、更规范的文档。
-
----
-
 # Electron 应用多平台安装包命名规范
 
 > 本文档定义了 Electron 应用跨平台构建产物的命名规范，参考 Electron 官方 `dist.zip` 的命名模式，适用于 Windows、macOS、Linux 三大平台。
